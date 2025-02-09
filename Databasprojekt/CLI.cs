@@ -517,6 +517,3 @@ GROUP BY Positions.PositionName;
 		}
 	}
 }
-
-
-
